@@ -1,5 +1,5 @@
 <?php
 
-print "Welcome to my OpenShift !!!!!!!!!! Komlan"
+print "Welcome to my OpenShift !!!!!!!!!!"
 
 ?>
